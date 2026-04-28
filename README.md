@@ -23,3 +23,8 @@ git switch -c branch.name = create a new local branch and switch to it
 git push -u origin new.branch = save branch from vs to git hub (web)
 
 touch name.py = creates completly new "document"
+first i have to add changes with "add ." and then commit to the changes with "commit -m "text" "
+
+git branch - to find out information about branches 
+git branch branch.name = adding of the branch
+git checkout -b branch.name = add new branch and switch to the branch 
