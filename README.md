@@ -20,4 +20,4 @@ git branch branch.name = to add new LOCAL branch
 git push --set-upstream origin branch.name = push new local branch to the server and remember it for future push and pull 
 git branch -a = check REMOTE branches, this will show me all local branches 
 git switch -c branch.name = create a new local branch and switch to it 
-git push -u origin new.branch = 
+git push -u origin new.branch = save branch from vs to git hub (web)
